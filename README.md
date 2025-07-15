@@ -10,7 +10,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,java,py,github,figma,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,figma,vscode&perline=9" />
 </p>
 
 ---
@@ -20,10 +20,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AniketSainiOp&show_icons=true&theme=radical&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSainiOp&layout=compact&theme=radical" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AniketSainiOp&theme=radical" height="180px"/>
 </p>
 
 ---
