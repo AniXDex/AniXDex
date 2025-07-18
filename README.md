@@ -10,7 +10,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,figma,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,rust,c,c++,vscode&perline=9" />
 </p>
 
 ---
