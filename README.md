@@ -17,7 +17,22 @@
 
 ### 📈 GitHub Stats
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketsainiop&bg_color=1d1d1d&color=7f8ff4&line=787878&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="background-color: #1E1E2E; border-radius: 10px; padding: 30px; color: #F8D866; margin: 20px;">
+    <h2 style="text-align: center; border-bottom: 2px solid #F8D866;">🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ:</h2>
+    <div align="center">
+        <a href="https://github.com/jitendraunatti">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendraunatti&theme=radical&border=7F3FBF&background=0D1117" alt="jitendra's GitHub streak" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jitendraunatti">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jitendraunatti&theme=radical" alt="jitendra's GitHub Contribution" />
+        </a>
+        <br><br>
+        <a href="https://github.com/jitendraunatti">
+            <img alt="jitendraunatti Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jitendraunatti&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+        </a>
+    </div>
+</div>
 
 ---
 
