@@ -17,10 +17,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AniketSainiOp&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSainiOp&layout=compact&theme=radical" height="180px"/>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketsainiop&bg_color=1d1d1d&color=7f8ff4&line=787878&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
