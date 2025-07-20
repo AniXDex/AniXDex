@@ -10,7 +10,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,ae,blender,kali,c,cpp,&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,ae,blender,kali,c,cpp,json,&perline=9" />
 </p>
 
 ---
@@ -51,10 +51,6 @@
 ### 🌟 Support & Star
 
 > If you find my work helpful, consider ⭐️ starring some of my repositories!
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AniketSainiOp&theme=onestar&no-frame=true&no-bg=true&margin-w=4" />
-</p>
 
 <p align="center">
   <img src="https://media.tenor.com/S-UWuLLn-xIAAAAj/heart-black.gif" width="200" />
