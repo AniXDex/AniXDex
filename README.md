@@ -52,7 +52,3 @@
 
 > If you find my work helpful, consider ⭐️ starring some of my repositories!
 
-<p align="center">
-  <img src="https://media.tenor.com/S-UWuLLn-xIAAAAj/heart-black.gif" width="200" />
-  <img src="https://media.tenor.com/KMvIN3R__IkAAAAi/%E9%97%AA%E4%BA%AE.gif" width="200" />
-</p>
