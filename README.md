@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Saini</h1>
 
-![](https://komarev.com/ghpvc/?username=AniketSainiOp)
+<h1 align="center">![](https://komarev.com/ghpvc/?username=AniketSainiOp)</h1>
 
 
 <p align="center">
