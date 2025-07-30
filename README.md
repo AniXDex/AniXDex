@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aniket Saini</h1>
+<h1 align="center">Hi 👋, I'm Aniket </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AniketSainiOp&label=Profile%20views&color=0e75b6&style=flat" alt="AniketSainiOp" />
+  <img src="https://komarev.com/ghpvc/?username=AniXDex&label=Profile%20views&color=0e75b6&style=flat" alt="AniXDex" />
 </p>
 
 <p align="center">
@@ -24,16 +24,16 @@
 <div style="background-color: #1E1E2E; border-radius: 10px; padding: 30px; color: #F8D866; margin: 20px;">
     <h2 style="text-align: center; border-bottom: 2px solid #F8D866;">🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ:</h2>
     <div align="center">
-        <a href="https://github.com/AniketSainiOp">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketSainiOp&theme=radical&border=7F3FBF&background=0D1117" alt="Aniket's GitHub streak" />
+        <a href="https://github.com/AniXDex">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniXDex&theme=radical&border=7F3FBF&background=0D1117" alt="Aniket's GitHub streak" />
         </a>
         <br><br>
-        <a href="https://github.com/AniketSainiOp">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketSainiOp&theme=radical" alt="Aniket's GitHub Contribution" />
+        <a href="https://github.com/AniXDex">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniXDex&theme=radical" alt="Aniket's GitHub Contribution" />
         </a>
         <br><br>
-        <a href="https://github.com/AniketSainiOp">
-            <img alt="Aniket's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AniketSainiOp&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+        <a href="https://github.com/AniXDex">
+            <img alt="Aniket's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AniXDex&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
         </a>
     </div>
 </div>
