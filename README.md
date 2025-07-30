@@ -23,8 +23,9 @@
 
 <div style="background-color: #1E1E2E; border-radius: 10px; padding: 30px; color: #F8D866; margin: 20px;">
     <h2 style="text-align: center; border-bottom: 2px solid #F8D866;">🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ:</h2>
-    <div align="center"><br/>
-        ![](https://nirzak-streak-stats.vercel.app/?user=AniXDex&theme=dark&hide_border=false)<br/><br>
+    <div align="center">
+    <a href="https://instagram.com/aniket_aep"><img src="https://nirzak-streak-stats.vercel.app?user=AniXDex&theme=radical" alt="GitHub Streak" /></a>
+<br/><br>
         <a href="https://github.com/AniXDex">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniXDex&theme=radical" alt="Aniket's GitHub Contribution" />
         </a>
