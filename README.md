@@ -24,9 +24,7 @@
 <div style="background-color: #1E1E2E; border-radius: 10px; padding: 30px; color: #F8D866; margin: 20px;">
     <h2 style="text-align: center; border-bottom: 2px solid #F8D866;">🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ:</h2>
     <div align="center">
-        <a href="https://github.com/AniXDex">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniXDex&theme=radical&border=7F3FBF&background=0D1117" alt="Aniket's GitHub streak" />
-        </a>
+        <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=AniXDex&theme=tokyonight" alt="GitHub Streak" /></a>
         <br><br>
         <a href="https://github.com/AniXDex">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniXDex&theme=radical" alt="Aniket's GitHub Contribution" />
