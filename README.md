@@ -14,7 +14,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,ae,blender,kali,c,cpp,react,ts,mysql,express,vscode,mongodb&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,ae,blender,kali,c,cpp,react,ts,mysql,express,vscode,mongodb,nodejs&perline=9" />
 </p>
 
 ---
