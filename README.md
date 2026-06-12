@@ -13,9 +13,29 @@
 
 ### 🚀 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,github,ae,blender,kali,c,cpp,react,ts,mysql,express,vscode,mongodb,nodejs,tailwind&perline=9" />
-</p>
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,py&theme=dark"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=github,vscode,git&theme=dark"/>
+
+**Creative & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=ae,blender&theme=dark"/>
+
+</div>
 
 ---
 
