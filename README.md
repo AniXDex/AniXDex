@@ -41,6 +41,16 @@
 
 ### 📈 GitHub Stats
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AniXDex/AniXDex/main/metrics.svg" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AniXDex&theme=radical&hide_border=true"/>
+
+</div>
+
 <div style="background-color: #1E1E2E; border-radius: 10px; padding: 30px; color: #F8D866; margin: 20px;">
     <h2 style="text-align: center; border-bottom: 2px solid #F8D866;">🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ:</h2>
     <div align="center">
