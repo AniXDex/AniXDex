@@ -42,7 +42,7 @@
 
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://instagram.com/aniket_aep)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anixdex)](https://instagram.com/aniket_aep)
 
 </p>
 
