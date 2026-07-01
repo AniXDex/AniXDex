@@ -18,25 +18,25 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp,py&theme=dark"/>
 
-<br><br>
+<br>
 
 <h3>Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
 
-<br><br>
+<br>
 
 <h3>Backend & Database</h3>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 
-<br><br>
+<br>
 
 <h3>Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
-<br><br>
+<br>
 
 <h3>Creative</h3>
 
@@ -95,11 +95,3 @@
 If you find my work helpful, consider starring ⭐ one of my repositories.
 
 </div>
-
----
-
-# ⭐ Support
-
-<p align="center">
-If you find my work helpful, consider starring ⭐ one of my repositories.
-</p>
