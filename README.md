@@ -42,11 +42,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/AniXDex/AniXDex/main/metrics.svg" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AniXDex&theme=radical&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://instagram.com/aniket_aep)
 
 </p>
 
