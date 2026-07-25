@@ -51,7 +51,7 @@
 <h1>📈 GitHub Stats</h1>
 
 <a href="https://instagram.com/aniket_aep">
-<img src="https://streak-stats.demolab.com/?user=AniXDex&theme=dark" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=AniXDex&theme=dark" alt="Streak"/>
 </a>
 
 </div>
