@@ -51,7 +51,7 @@
 <h1>📈 GitHub Stats</h1>
 
 <a href="https://instagram.com/aniket_aep">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AniXDex&theme=radical&hide_border=true&border_radius=51" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=anixdex&theme=dark&border_radius=50" alt="Streak"/>
 </a>
 
 </div>
