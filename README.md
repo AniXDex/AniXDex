@@ -50,7 +50,7 @@
 
 <h1>📈 GitHub Stats</h1>
 
-[GitHub Streak](https://streak-stats.demolab.com?user=anixdex&theme=tokyonight)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=anixdex&theme=tokyonight)]
 
 
 </div>
