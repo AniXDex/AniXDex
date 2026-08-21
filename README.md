@@ -51,7 +51,7 @@
 <h1>📈 GitHub Stats</h1>
 
 <a href="https://instagram.com/aniket_aep">
-<img src="https://streak-stats.demolab.com?user=anixdex&theme=dark&border_radius=50" alt="Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=anixdex&theme=tokyonight)](https://git.io/streak-stats)
 </a>
 
 </div>
