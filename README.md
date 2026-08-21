@@ -50,9 +50,8 @@
 
 <h1>📈 GitHub Stats</h1>
 
-<a href="https://instagram.com/aniket_aep">
 [![GitHub Streak](https://streak-stats.demolab.com?user=anixdex&theme=tokyonight)](https://git.io/streak-stats)
-</a>
+
 
 </div>
 
