@@ -18,7 +18,7 @@
 
 I like building **web apps, tools, and things that solve problems I run into.**
 
-▸ **Open Source Contributor — Corsair** · built the Dovetail integration plugin with 51 endpoints across 13 namespaces · [PR #1744 merged](https://github.com/corsairdev/corsair/pull/1744)<br/>
+▸ **Open Source Contributor — Corsair** · built the Dovetail integration plugin· [PR #1744 merged](https://github.com/corsairdev/corsair/pull/1744)<br/>
 ▸ Mostly working with **JavaScript, TypeScript, React, and Next.js**<br/>
 ▸ Currently getting deeper into **Node.js, Express, APIs, and databases**<br/>
 ▸ I enjoy turning random ideas into working projects and seeing how far I can take them<br/>
