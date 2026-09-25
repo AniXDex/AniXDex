@@ -16,13 +16,6 @@
   </tr>
 </table>
 
-### 🌐 Currently Live
-
-▸ **[AniXDex](https://aniketsaini.vercel.app)** · personal portfolio web<br/>
-▸ **[AniXMusic](https://anixmusic.vercel.app)** · music streaming web app<br/>
-▸ **[AniXFlix](https://anixflix-iota.vercel.app)** · movie & streaming web app<br/>
-▸ **[AniXInsta](https://anixinsta.vercel.app)** · Instagram media utility<br/>
-
 I like building **web apps, tools, and things that solve problems I run into.**
 
 ▸ **Open Source Contributor — Corsair** · built the Dovetail integration plugin· [PR #1744 merged](https://github.com/corsairdev/corsair/pull/1744)<br/>
@@ -30,6 +23,13 @@ I like building **web apps, tools, and things that solve problems I run into.**
 ▸ Currently getting deeper into **Node.js, Express, APIs, and databases**<br/>
 ▸ I enjoy turning random ideas into working projects and seeing how far I can take them<br/>
 ▸ Always experimenting with new tools, libraries, and ways to build things better<br/>
+
+### 🌐 Currently Live
+
+▸ **[AniXDex](https://aniketsaini.vercel.app)** · personal portfolio web<br/>
+▸ **[AniXMusic](https://anixmusic.vercel.app)** · music streaming web app<br/>
+▸ **[AniXFlix](https://anixflix-iota.vercel.app)** · movie & streaming web app<br/>
+▸ **[AniXInsta](https://anixinsta.vercel.app)** · Instagram media utility<br/>
 
 Currently learning **backend development** and working on getting better at **APIs, databases, authentication, and server-side systems**.
 
