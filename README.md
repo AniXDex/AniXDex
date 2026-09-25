@@ -26,7 +26,7 @@ I like building **web apps, tools, and things that solve problems I run into.**
 
 ### 🌐 Currently Live
 
-▸ **[AniXDex](https://aniketsaini.vercel.app)** · personal portfolio web<br/>
+▸ **[AniketSaini](https://aniketsaini.vercel.app)** · personal portfolio web<br/>
 ▸ **[AniXMusic](https://anixmusic.vercel.app)** · music streaming web app<br/>
 ▸ **[AniXFlix](https://anixflix-iota.vercel.app)** · movie & streaming web app<br/>
 ▸ **[AniXInsta](https://anixinsta.vercel.app)** · Instagram media utility<br/>
