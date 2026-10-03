@@ -30,6 +30,10 @@ I like building **web apps, tools, and things that solve problems I run into.**
 ▸ **[AniXFlix](https://anixflix-iota.vercel.app)** · movie & streaming web app<br/>
 ▸ **[AniXInsta](https://anixinsta.vercel.app)** · Instagram media utility<br/>
 
+### Open Source Contributions
+
+**Corsair** · [#1744](https://github.com/corsairdev/corsair/pull/1744) · **BitChord** · [#423](https://github.com/kushagrasinghx/BitChord/pull/423) · [#424](https://github.com/kushagrasinghx/BitChord/pull/424)
+
 Currently learning **backend development** and working on getting better at **APIs, databases, authentication, and server-side systems**.
 
 <br/>
