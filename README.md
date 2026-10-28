@@ -24,7 +24,7 @@ I like building **web apps, tools, and things that solve problems I run into.**
 
 ### Open Source
 
-**Corsair** · [PR #1744](https://github.com/corsairdev/corsair/pull/1744) · [PR #1885](https://github.com/corsairdev/corsair/pull/1885) · [PR #1896](https://github.com/corsairdev/corsair/pull/1896)  
+**Corsair** · [PR #1744](https://github.com/corsairdev/corsair/pull/1744) · [PR #1885](https://github.com/corsairdev/corsair/pull/1885) · [PR #1896](https://github.com/corsairdev/corsair/pull/1896) · [PR #1940](https://github.com/corsairdev/corsair/pull/1940)
 **BitChord** · [PR #423](https://github.com/kushagrasinghx/BitChord/pull/423) · [PR #424](https://github.com/kushagrasinghx/BitChord/pull/424)
 
 ### 🌐 Currently Live
